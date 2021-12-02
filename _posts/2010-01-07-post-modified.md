@@ -7,6 +7,7 @@ tags:
   - Post Formats
   - readability
   - standard
+show_date: true
 ---
 
 This post has been updated and should show a modified date if used in a layout.
