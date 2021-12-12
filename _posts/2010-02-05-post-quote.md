@@ -7,8 +7,9 @@ tags:
   - quote
 mathjax: true
 classes: wide
+#author_profile: false
 ---
-​
+cIAO​
 
 
 
@@ -98,6 +99,8 @@ Now take into consideration the time between two subsequent measures and we upda
 after doing so remember equation 11, so after doing the conversion we will get the values
 
 as in a similar way as done above we update the Euler angles:
+
+$$\omega(\frac{rad}{s}) = \frac{2\pi}{60} \cdot RPM$$
 
 That's all for this post see you in the next one with the simulation.  See you in the next one!
 ​
