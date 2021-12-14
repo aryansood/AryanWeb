@@ -63,7 +63,7 @@ We call respectively the thrust produce by the first, second, third, and fourth 
 
 Consider the image below:
 
- $$R_{b1}=\begin{bmatrix} 1 & 0 & 0 \\ 0 & cos(\phi) & sin(\phi) \\ 0 & -sin(\phi)& cos(\phi) \end{bmatrix} $$
+ $$R_{b1}=\begin{bmatrix} 1 & 0 & 0 \\ 0 & cos(\phi) & sin(\phi) \\ 0 & -sin(\phi)& cos(\phi) \end{bmatrix}$$
 
 Now as we are considering an X type quadcopter, we can see that once we call the arm length than we have    so considering the way that the force is acting we obtain the following
 

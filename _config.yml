@@ -61,7 +61,7 @@ plugins:
 author:
   name   : "Aryan Sood"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here. sd fsd fsdf sf dfsd fsf sfddf sdf"
+  bio    : "Hi I am Aryan Sood, first year university student studying Computer Science and Engineering"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -75,6 +75,9 @@ author:
     #- label: "Instagram"
       #icon: "fab fa-fw fa-instagram"
       #url: "https://instagram.com/"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/aryan-sood-546a34222/"
 
 footer:
   links:
